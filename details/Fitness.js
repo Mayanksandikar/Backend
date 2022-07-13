@@ -37,7 +37,7 @@ const get = (req,res)=>{
          "description" : "Kamal Haasan maybe 67 years old, but he never fails to set goals — from acting to fashion and even fitness. As such, the actor’s fitness prowess was captured in a video by director Lokesh Kanagaraj on the sets of his film, Vikram, which went on to break records."
      },
           {
-            "id": "37",
+            "id": "56",
             "title": "Watch: Kamal Haasan does 26 clean incline pushups; sets massive fitness goals     ",
     
             "Image": "https://images.indianexpress.com/2022/06/kamal-hassan_insta-lokesh-kanagaraj-twitter.jpg",

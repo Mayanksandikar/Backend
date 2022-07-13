@@ -7,13 +7,7 @@ const get = (req,res)=>{
             "category": "Bollywood",
             "description": "On the other hand, the statement ‘genius of the year’ in itself is a reference made to the title of a video that created by AIB featuring Alia Bhatt. It was created as a response to the several trolls that targeted the then debutante after yet another foot-in-the-mouth situation on Koffee With Karan."
           },
-          {
-            "id": "51",
-            "title": "Artist mimics Alia Bhatt from Koffee With Karan",
-            "Image": "https://stat1.bollywoodhungama.in/wp-content/uploads/2022/07/Artist-mimics-Alia-Bhatt-from-Koffee-With-Karan-fans-say-%E2%80%98nailed-it.jpg",
-            "category": "Bollywood",
-            "description": "On the other hand, the statement ‘genius of the year’ in itself is a reference made to the title of a video that created by AIB featuring Alia Bhatt. It was created as a response to the several trolls that targeted the then debutante after yet another foot-in-the-mouth situation on Koffee With Karan."
-          },
+    
           {
             "id": "2",
             "title": "Ponniyin Selvan I: Aishwarya Rai Bachchan’s Kolkata fan club has a plan in place to ensure the film's box office success",
@@ -21,13 +15,7 @@ const get = (req,res)=>{
              "category": "Bollywood",
             "description": "Aishwarya Rai Bachchan is next going to be seen in Mani Ratnam's film Ponniyin Selvan: I. It is a historical period drama that also stars Chiyaan Vikram, Jayam Ravi, Karthi, Trisha, Jayaram, Aishwarya Lekshmi, R. Sarathkumar and Sobhita Dhulipala in pivotal roles. After much anticipation, the fans finally got to see the first looks of the stars as the posters were released. Aishwarya Rai Bachchan essays the role of Nandini in this film and she left everyone mesmerised with her royal avatar. Now her fans from Kolkata are planning something special to make this film a big hit."
         },
-          {
-            "id": "61",
-            "title": "Ponniyin Selvan I: Aishwarya Rai Bachchan’s Kolkata fan club has a plan in place to ensure the film's box office success",
-            "Image": "https://st1.bollywoodlife.com/wp-content/uploads/2022/07/ponniyin.png?impolicy=Medium_Widthonly&w=800",
-             "category": "Bollywood",
-            "description": "Aishwarya Rai Bachchan is next going to be seen in Mani Ratnam's film Ponniyin Selvan: I. It is a historical period drama that also stars Chiyaan Vikram, Jayam Ravi, Karthi, Trisha, Jayaram, Aishwarya Lekshmi, R. Sarathkumar and Sobhita Dhulipala in pivotal roles. After much anticipation, the fans finally got to see the first looks of the stars as the posters were released. Aishwarya Rai Bachchan essays the role of Nandini in this film and she left everyone mesmerised with her royal avatar. Now her fans from Kolkata are planning something special to make this film a big hit."
-        },
+     
           
           {
             "id": "3",
