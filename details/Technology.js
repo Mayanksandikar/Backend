@@ -3,7 +3,7 @@ const get = (req,res)=>{
         {
             "id": '21',
             "title": "Australia probes retail giants Bunnings and Kmart over customer 'faceprints'",
-            "Image": "Australia probes retail giants Bunnings and Kmart over customer 'faceprints'",
+            "Image": "https://ichef.bbci.co.uk/news/976/cpsprodpb/104BC/production/_125884766_gettyimages-1263779281.jpg",
             "category": "Technology",
             "description" : "Hardware firm Bunnings and department store Kmart collect customers faceprints in some locations."
         },
@@ -97,7 +97,7 @@ const get = (req,res)=>{
             "id": '30',
             "title": "Realme GT Neo 3 get a special Naruto Edition: All you need to know ",
             "Image": "https://images.indianexpress.com/2022/05/Realme-Naruto-edition-1.jpg",
-            "category": "Technology",
+            "category": "mix",
             "description": "Realme is no stranger to launching special edition devices targeted at anime fans out there. The brand’s GT Neo 2 smartphone came out with a limited Dragon Ball edition complete with the titular character Goku’s colours and more. Now, the company has revealed yet another anime-edition phone.The Realme GT Neo Naruto Edition phone is based on the Naruto-series. Taking elements from both Naruto and the sequel series Naruto: Shippuden, the phone’s design takes cues from the signature black and orange jacket worn by the show’s lead character Naruto Uzumaki, as well as the silver headband most ninja in the show wear, complete with the Konoha seal.However, that’s just the device. Realme has also thrown in other themed goodies into the package, including a neat-looking Naruto-themed case, a black and orange charging adapter and a black USB type-C to type-C cable to go with it. Additionally, there is also a Naruto-themed SIM-ejector pin and a 10,000mAh power bank.Asides from the aesthetics, the phone itself is a regular Realme GT Neo 3 (the 150W fast charging variant) and includes the same hardware as its standard counterpart. This includes a MediaTek Dimensity 8100 chip. A 6.7-inch AMOLED display with 120Hz HDR10+ and an under-display fingerprint scanner. The single storage variant will also feature 12GB RAM and 256GB UFS 3.1 storage."
           }
     ])

@@ -3,7 +3,7 @@ const get = (req,res)=>{
         {
             "id": "31",
             "title": "Hrithik Roshan shares video of 72-year-old Rakesh Roshan working out in the gym; calls it ‘goals",
-           "Image": "Hrithik Roshan shares video of 72-year-old Rakesh Roshan working out in the gym; calls it ‘goals",
+           "Image": "https://images.indianexpress.com/2022/07/Hrithik-and-Rakesh-Roshan-1200.jpg",
             "category": "Fitness",
             "description": "Actor Hrithik Roshan shared a video of his father Rakesh Roshan working out in the gym; it basically proves that age is just a state of mind when it comes to fitness, and that one has to have the drive and discipline to go the extra mile to ensure the body is healthy."
              },
@@ -55,7 +55,7 @@ const get = (req,res)=>{
             "id": "37",
             "title": "Celeb fitness: Sooraj Pancholi is ‘back to the game ",
             "Image": "https://images.indianexpress.com/2022/05/sooraj-pancholi_1200_insta.jpg",
-            "category": "Fitness",
+            "category": "mix",
             "description": "Sooraj Pancholi, who loves to work out, is back to the fitness grind after long. His fitness trainer, Pawan Jatwa, recently shared a video in which the Hero actor could be seen flexing his muscles. According to Bala Krishna Reddy Dabbedi, a fitness expert, and co-founder, director at Fittr, people usually think that they can pick up from where they left and that their original strength will be the same — “but that will not be the case”. “It’s easy to compare yourself to the times when you were training regularly. But, if there has been a gap in your gymming routine, it’s reasonable to see a decline in strength, endurance, and overall muscle,” he expressed.Assess again, test your current strength levels and train accordingly, he suggested. “There is something called muscle memory which helps one get back to their previous strength levels and muscle mass, but this takes times — from a few weeks to even some months. Just be consistent and positive till you get there. On resuming, do not start with an intense program. Keep it minimal, start slow, and you may even experience muscle soreness and pain. Eventually increase the intensity with every passing week,” she said."
           },
           {
